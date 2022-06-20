@@ -306,7 +306,7 @@ body {
   .rit-cover .hotkey h1 {
     width: 100%;
     text-align: right;
-    color: #c7c2c2; }
+    color: #343a40; }
   .rit-cover .hotkey small {
     font-size: 1rem;
     color: #9c9898;
@@ -382,4 +382,8 @@ body {
   .rit-cover .profess-cover .progress-bar {
     background-color: #00ab9f; }
 
+.grey_color{
+  color: #1a1919;
+}
 /*# sourceMappingURL=style.css.map */
+
