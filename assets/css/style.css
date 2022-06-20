@@ -385,5 +385,14 @@ body {
 .grey_color{
   color: #1a1919;
 }
+
+.icons_just{
+    color: white;
+    justify-content: center;
+}
+
+.icons_pad{
+  padding-right: 10px;
+}
 /*# sourceMappingURL=style.css.map */
 
